@@ -1,2 +1,3 @@
-# repeatStringNumTimes
-文字列を指定回数くりかえす
+##考え方
+numが正の数かどうか判定し、trueならrepeat(num)を返す。
+falseなら空文字を返す。
